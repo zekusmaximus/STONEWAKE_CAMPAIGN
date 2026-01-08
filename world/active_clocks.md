@@ -11,7 +11,7 @@
 
 ---
 
-## Clock 1 - Ashfall Escalation (Current: 2/6)
+## Clock 1 - Ashfall Escalation (Current: 3/6)
 ### What it Measures
 Ashfall Exchange's institutional response to Baron Luno as a constraint (surveillance, legal pressure, proxy enforcement, recruitment attempts).
 
@@ -23,8 +23,8 @@ Ashfall Exchange's institutional response to Baron Luno as a constraint (surveil
 
 ### Threshold Outcomes
 - **1/6 - Awareness:** Ashfall tags Luno as a variable. *(already happened)*
-- **2/6 - Classification:** "Regulatory Actor" label; passive surveillance begins. *(current)*
-- **3/6 - Soft Containment:** legal harassment, subpoenas, charter challenges, reputational pressure.
+- **2/6 - Classification:** "Regulatory Actor" label; passive surveillance begins.
+- **3/6 - Soft Containment:** legal harassment, subpoenas, charter challenges, reputational pressure. *(current)*
 - **4/6 - Proxy Enforcement:** Asset Resolution Partners deployed to test and measure Luno.
 - **5/6 - Offer or Ultimatum:** Ashfall attempts to bind Luno via contract or make him persona non grata.
 - **6/6 - Hard Response:** coordinated proxy action + political pressure; open conflict becomes difficult to avoid.

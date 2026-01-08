@@ -8,3 +8,4 @@ This log records clock ticks and resolutions. Do not edit prior entries.
   - Hobgoblin Fragmentation: 3/6
   - Grayhaven Political Stability: 2/6
   - Brindlecross Legitimacy: 1/6
+- [Session 08] Ashfall Escalation advanced to 3/6 because Luno seized a supplemental ledger tied to Ashfall-linked enforcement during a formal audit.

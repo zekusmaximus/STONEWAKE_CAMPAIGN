@@ -40,10 +40,17 @@ The following files mirror sections of this document for fast lookup. This file 
 ### Day 20+: Ashfall Exchange Enters the Board
 - Grayhaven leadership detects infernal notary marks and predatory "trade stabilization" charters.
 - Luno infiltrates **Ashfall Exchange** and obtains redacted arbitration framework: enforcement is subcontracted to **Asset Resolution Partners**, with appeals to a non-local guarantor.
+- Luno coordinates a controlled audit at a Stonewake Road toll node; a supplemental ledger is seized and a rider confirms **Asset Resolution Partners** report to a sealed Grayhaven handler (marker **GRH-E/13**).
 
 ---
 
 ## Locations (All Known Sites)
+### Distances & Positions (Canon)
+- **Stonewake Road length (Grayhaven to Brindlecross):** ~180 miles by road (~6 days by standard travel).
+- **Redwillow Crossing:** river trade town on Stonewake Road at **mile 95 from Grayhaven** (~85 miles from Brindlecross).
+- **Black Post Waystation (ruined):** on Stonewake Road at **mile 145 from Grayhaven** (~35 miles from Brindlecross).
+- **Abandoned Watchtower:** **12 miles NNE of Brindlecross** (off-road).
+- **Harrowfen Mill:** **20 miles south of Stonewake Road**, roughly **40 miles west of Brindlecross** (off-road).
 ### Grayhaven
 - **Status:** politically anxious; trade-dependent; trying to avoid open conflict.
 - **Key sites:** Customs Hall, Temple Annex archives, merchant wards.
@@ -51,6 +58,7 @@ The following files mirror sections of this document for fast lookup. This file 
 ### Stonewake Road
 - **Status:** reopened but fragile; patrol patterns altered; rumors persist.
 - **Threat:** remnant hobgoblin bands may radicalize if unpaid.
+- **Distance:** ~180 miles between Grayhaven and Brindlecross.
 
 ### Brindlecross
 - **Status:** militarized and disciplined; uses law + patrols + intelligence.
@@ -59,18 +67,27 @@ The following files mirror sections of this document for fast lookup. This file 
 ### Abandoned Watchtower (north-northeast of Brindlecross)
 - **Status:** evacuated after Luno's strike.
 - **Notes:** formerly forward command point; now a known "danger memory" for enemies.
+- **Distance:** 12 miles NNE of Brindlecross.
 
 ### Black Post Waystation (ruined)
 - **Status:** suspected staging point for hobgoblin screen elements.
 - **Notes:** not fully explored in canon; remains a potential remnant base.
+- **Distance:** 35 miles from Brindlecross along Stonewake Road (145 from Grayhaven).
 
 ### Harrowfen Mill (safehouse)
 - **Status:** operational safehouse at time of surveillance; ledger sabotage planted.
 - **Notes:** hub for contractor-level logistics; proof of separation between finance and goblin violence.
+- **Distance:** 20 miles south of Stonewake Road; roughly 40 miles west of Brindlecross.
 
 ### Redwillow Crossing (river trade town)
 - **Status:** recently "audited" via arrest and impoundment; merchants nervous.
 - **Key site:** Riverfront counting house (arrest location).
+- **Distance:** 95 miles from Grayhaven along Stonewake Road (85 from Brindlecross).
+
+### Stonewake Toll Node (checkpoint)
+- **Status:** active checkpoint with a parallel supplemental ledger.
+- **Notes:** collects unofficial fees for select wagons; rider checks ledger and departs without payment.
+- **Distance:** **Unknown (Canon gap)** between Redwillow Crossing and Brindlecross.
 
 ### Ashfall Exchange (Grayhaven East Ward)
 - **Status:** active; infernal-backed escrow and arbitration services.
@@ -142,6 +159,7 @@ The following files mirror sections of this document for fast lookup. This file 
 - The **river consortium** is destabilized regionally but not destroyed.
 - **Ashfall Exchange** is the emerging systemic threat: legal capture through arbitration and escrow.
 - Enforcement is **delegated** to **Asset Resolution Partners**, pointing to a non-local guarantor.
+- A supplemental ledger seized at a **Stonewake Road toll node** indicates a parallel fee structure and a sealed Grayhaven handler (**GRH-E/13**).
 - A **dragon-scale patron** is suspected but not yet revealed; the campaign is positioned for a dragon that behaves like a financier/monopoly enforcer rather than a random monster.
 
 ---
@@ -149,6 +167,7 @@ The following files mirror sections of this document for fast lookup. This file 
 ## Immediate Open Threads
 - Who is the non-local guarantor behind Ashfall's delegated enforcement?
 - Where do the Asset Resolution Partners operate (hq, leaders, recruitment)?
+- Who is the Grayhaven handler using the **GRH-E/13** marker?
 - Will unpaid hobgoblin remnants become a new destabilizing force?
 - How will Grayhaven and Brindlecross respond to "trade stabilization" charters that are technically legal?
 

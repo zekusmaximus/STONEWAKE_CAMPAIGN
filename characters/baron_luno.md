@@ -117,7 +117,7 @@ Prepared spells **(4)** (do not include oath spells):
 - **Potions of Healing x4** (2d4+2 each, action to drink)
 
 ### Wealth
-- **94 gp**, **67 sp**, **79 cp**
+- **94 gp**, **85 sp**, **86 cp**
 - Gems: **2 x (10 gp)**
 
 ### Papers / Authority
@@ -153,5 +153,6 @@ HP should increase each level. Canon HP calculation used:
 - **Channel Divinity:** 1/1
 - **Lay on Hands:** 25/25
 - **Conditions:** none
+- **XP:** 7000
 
 

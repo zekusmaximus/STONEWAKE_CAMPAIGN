@@ -10,6 +10,7 @@
 - **Ancestry:** Blue Dragonborn
 - **Class / Level:** Fighter 5 (Eldritch Knight)
 - **Alignment:** Chaotic Neutral
+- **XP:** 7000
 
 ### Ability Scores
 | Ability | Score | Mod |
@@ -97,6 +98,7 @@
 - **Name:** Snik
 - **Ancestry:** Kobold
 - **Role:** scout / skirmisher / utility
+- **XP:** 7000
 
 ## Canon Mechanical Model
 Snik is run as a **custom NPC scout** (not a PC class), built to match your intent while staying manageable and broadly RAW-consistent.
